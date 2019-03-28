@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#define MAXCHAR 1000
 int main(void)
 {	
 
